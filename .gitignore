@@ -1,4 +1,6 @@
-bject files
+mqtt_xcomfort
+
+#Object files
 *.o
 *.ko
 *.obj
